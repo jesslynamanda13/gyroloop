@@ -32,6 +32,8 @@
 
 <p>
   <b>SDG 12: Ensure sustainable consumption and production patterns</b>
+  <br>
+  <b>Made with Flutter and Firebase</b>
 </p>
 
 <p>
