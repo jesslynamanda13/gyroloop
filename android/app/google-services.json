@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599548577431",
+    "project_id": "gyroloop-fd0bc",
+    "storage_bucket": "gyroloop-fd0bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599548577431:android:c24725bfc8c456d2364bd2",
+        "android_client_info": {
+          "package_name": "com.example.gyroloop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599548577431-3hemu1jr3666v1lvlqq0b6pv6708ck9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwtrJ3MzOOqcLv8BN2GpUVpsTDbX5gp2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599548577431-3hemu1jr3666v1lvlqq0b6pv6708ck9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
