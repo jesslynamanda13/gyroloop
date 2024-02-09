@@ -1,5 +1,7 @@
 <p>
   <img src="assets/image/gyroloop.png" alt="gyroloop-logo" width="150">
+  <img src= "https://drive.google.com/file/d/1dYv8W_3ThMZdk5lGSbNJaNQ5CB8LbYD_/view?usp=sharing" alt="gyroloop-logo" width="150">
+
 </p>
 
 <p>Brought to you by <b>BajakLawud Team</b> 🏴‍☠️</p>
